@@ -1,1 +1,1 @@
-In this project; <br /> Vanilla RNN and LSTM are investigated. I compared these architectures using built-in classes and from scratch ones.  
+In this project; <br /> Vanilla RNN and LSTM are investigated. I compared these architectures using built-in classes and from scratch ones.<br /> Links:<br /> (https://pytorch.org/docs/stable/generated/torch.nn.RNN.html) <br /> (https://pytorch.org/docs/stable/generated/torch.nn.LSTM.html)
